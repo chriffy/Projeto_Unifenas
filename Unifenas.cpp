@@ -281,7 +281,7 @@ int main()
 			cadastrar(arq);
 			break;
 		case 2:
-			consultar(arq);;;;
+			consultar(arq);;;
 			break;
 		case 4:
 			gerararqtxt(arq);
